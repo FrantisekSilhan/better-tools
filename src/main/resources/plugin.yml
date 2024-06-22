@@ -1,0 +1,4 @@
+name: better-tools
+version: '${project.version}'
+main: bettertools.bettertools.Better_tools
+api-version: '1.21'
