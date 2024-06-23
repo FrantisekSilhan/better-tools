@@ -2,3 +2,7 @@ name: better-tools
 version: '${project.version}'
 main: bettertools.bettertools.Better_tools
 api-version: '1.21'
+commands:
+  bt:
+    description: Get better tools
+    usage: /<command> <item> (all, hoe, pickaxe, ...)
